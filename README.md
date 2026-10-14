@@ -32,7 +32,7 @@
 ابتدا ریپازیتوری را کلون کنید:
 
 ```bash
-git clone https://github.com/rominxoii/fastapi-library-api.git
+git clone https://github.com/rominaxoii/fastapi-library-api.git
 cd fastapi-library-api
 ```
 
