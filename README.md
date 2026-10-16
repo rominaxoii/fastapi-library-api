@@ -25,7 +25,7 @@
 ## پیش‌نیازها
 
 - Python نسخه‌ی 3.10 یا بالاتر
-- [uv](https://docs.astral.sh/uv/) (یا pip)
+- [uv](https://docs.astral.sh/uv/) 
 
 ## نصب
 
@@ -41,13 +41,6 @@ cd fastapi-library-api
 ```bash
 uv sync
 ```
-
-یا با pip:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## اجرای برنامه
 
 سرور توسعه را اجرا کنید:
